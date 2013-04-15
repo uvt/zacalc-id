@@ -1,0 +1,17 @@
+Source: zacalc-id
+Section: localization
+Priority: optional
+Maintainer: Raviyanto Ahmad <raviyanto@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/zerosix06/zacalc-gtk
+Vcs-Git: git://github.com/zerosix06/zacalc-gtk.git
+Vcs-Browser: http://dev.blankonlinux.or.id/browser/rote/zacalc
+Vcs-bzr: http://dev.blankonlinux.or.id/bzr/rote/zacalc
+
+Package: zacalc-id
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, gettext
+Description: zakat calculator Indonesia localization
+ BlankOn Zakat Kalkulator adalah peralatan untung menghitung 
+ pembayaran zakat, baik per bulan maupun per tahun.
