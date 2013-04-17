@@ -13,5 +13,5 @@ Package: zacalc-id
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, gettext
 Description: zakat calculator Indonesia localization
- BlankOn Zakat Kalkulator adalah peralatan untung menghitung 
+ BlankOn Zakat Kalkulator adalah peralatan untuk menghitung 
  pembayaran zakat, baik per bulan maupun per tahun.
