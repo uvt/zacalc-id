@@ -20,6 +20,8 @@ msgstr ""
 #: src/zacalc.py:92
 msgid "<b>PENDAPATAN</b>"
 msgstr "<b>PENDAPATAN</b>"
+include enlish as en 
+#including english library
 
 #: src/zacalc.py:94
 msgid "<b>ZAKAT PENGHASILAN</b>"
